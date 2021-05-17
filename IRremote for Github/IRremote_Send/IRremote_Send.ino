@@ -1,3 +1,5 @@
+// Créé par Camille Jouhet le 6 février 2020
+
 #include <IRremote.h> //Import of the libraries
 #include <SoftwareSerial.h>
 

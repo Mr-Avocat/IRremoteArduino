@@ -1,3 +1,4 @@
+// Créé par Camille Jouhet le 6 février 2020
 #include <IRremote.h> //Import of the library
 
 const int cptInf = 2; //IR sensor pin
